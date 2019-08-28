@@ -1,0 +1,9 @@
+kind: ""
+apiversion: ""
+commonLabels:
+  app: amster
+  vendor: forgerock
+resources:
+- amster.yaml
+- configmap.yaml
+- secret.yaml
